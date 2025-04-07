@@ -25,6 +25,14 @@ The goal of this project is to showcase my skills, experiences, and projects as 
 - Sections: Home, About Me, Experiences, Projects, Services, Contact
 
 ---
+## 📫 Contact
+
+
+Got a project in mind or just want to say hi?  
+Reach out via [LinkedIn](https://www.linkedin.com/in/gama-ariefsadya/) or visit the **Contact** section in this site.
+
+
+---
 
 ## 📦 Project Setup
 
@@ -34,10 +42,6 @@ npm install
 
 # start development server
 npm run dev
+---
 
-
-## 📫 Contact
-
-Got a project in mind or just want to say hi?  
-Reach out via [LinkedIn](https://www.linkedin.com/in/gama-ariefsadya/) or visit the **Contact** section in this site.
 
