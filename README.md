@@ -1,10 +1,43 @@
-# Vue 3 + Vite
+# 💼 Vue.js Portfolio – Gama Ariefsadya
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Hi there! 👋  
+This is my **personal portfolio website** built with **Vue 3 + Vite**, using the modern `<script setup>` syntax and Tailwind CSS for styling.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-# vuejs-portofolio
+The goal of this project is to showcase my skills, experiences, and projects as a **Software Engineer**, with a responsive design that works seamlessly across desktop and mobile devices.
 
-  // "homepage": "https://gamagamol.github.io/vuejs-portofolio"
- <main class="snap-y snap-mandatory overflow-y-scroll h-screen">
-    <section id="home" class="snap-start min-h-[100svh]"> ... </section>
+---
+
+## 🛠️ Tech Stack
+
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vue Router](https://router.vuejs.org/)
+
+---
+
+## 🚀 Features
+
+- Smooth scroll & full-page snap layout
+- Responsive design (mobile-first)
+- Modular component-based architecture
+- Clean and minimalist UI
+- Sections: Home, About Me, Experiences, Projects, Services, Contact
+
+---
+
+## 📦 Project Setup
+
+```bash
+# install dependencies
+npm install
+
+# start development server
+npm run dev
+
+
+## 📫 Contact
+
+Got a project in mind or just want to say hi?  
+Reach out via [LinkedIn](https://www.linkedin.com/in/gama-ariefsadya/) or visit the **Contact** section in this site.
+
