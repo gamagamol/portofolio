@@ -8,9 +8,10 @@
 
     <div class="flex flex-row gap-6 w-full h-full p-8 mt-32 justify-center text-white bg-primary-opacity40">
       <div class="w-2/3">
-        <h1 class="font-bold text-8xl  lg:text-6xl">About.</h1>
-        <h1 class="font-bold text-6xl  lg:text-8xl">Software Engineer</h1>
-        <p class="text-4xl lg:text-lg my-5 lg:my-2">
+        <h1 class="font-bold text-8xl  sm:hidden lg:text-6xl">About.</h1>
+        <h1 class="font-bold text-6xl  sm:hidden lg:text-8xl">Software Engineer</h1>
+        <h1 class="font-bold text-5xl sm:mb-3 lg:hidden">About Software Engineer </h1>
+        <p class="text-3xl lg:text-lg my-5 lg:my-2">
           I am a dedicated full-stack developer with a strong foundation in accounting, a skilled database engineer, and a data enthusiast. With a diverse technical skill set and a problem-solving mindset, I thrive in tackling complex
           challenges and delivering efficient, scalable solutions.
         </p>
