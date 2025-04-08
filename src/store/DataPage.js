@@ -56,7 +56,7 @@ export const experienceData = [
     position: 'Full Stack Software Developer and Database Engineer',
     company: 'Telkom Education Foundation ( Telkom Group)',
     description:
-      'Initiate and Manage a dashboard system within an application accessed by thousands of users, including teachers, students, and the foundation, to track the development of students under the foundation using PHP, Bootstrap , and Oracle database. ● Supporting the creation of a custom administrative system and financial dashboard to assist the financial team in decision-making and real-time tracking of financial movements.',
+      'Initiate and Manage a dashboard system within an application accessed by thousands of users, including teachers, students, and the foundation, to track the development of students under the foundation using PHP, Bootstrap , and Oracle database. Supporting the creation of a custom administrative system and financial dashboard to assist the financial team in decision-making and real-time tracking of financial movements.',
     year_start: 'March 2022',
     year_end: 'August 2022 ',
     skills: ['HTML', 'CSS', 'Bootstrap CSS', 'JavaScript', 'PHP', 'Laravel', 'MySQL', 'System Architecture', 'Postman', 'Api', 'Oracle'],
